@@ -1,0 +1,19 @@
+.header {
+    text-align: center
+}
+
+.pokemonList {
+    text-align: center;
+    background: rgb(193, 230, 193);
+    border: 8px solid rgb(81, 196, 36);
+    border-radius: 15px 50px;
+    margin: 10px;
+}
+
+.button {
+    text-align: center
+}
+
+.page {
+    text-align: center
+}
