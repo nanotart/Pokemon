@@ -7,7 +7,8 @@
     background: rgb(193, 230, 193);
     border: 8px solid rgb(81, 196, 36);
     border-radius: 15px 50px;
-    margin: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
 }
 
 .button {
